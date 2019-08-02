@@ -13,4 +13,4 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
-This video walks you through the process of setting up a freestyle project in Jenkins. 
+Yes, this video walks you through the process of setting up a freestyle project in Jenkins. 
